@@ -1,0 +1,38 @@
+{
+   "Customer": [
+      {
+         "FullName": "Nasser Ahmed",
+         "Title": "Mr",
+         "EDU": "Bsc",
+         "Major": "Managment",
+         "Phone": {
+            "Cell": "(904)435-3455",
+            "Home": "(535)787-4432"
+         },
+         "Address": {
+            "Street": "11481 Old St Augustine Rd ",
+            "City": "Jack",
+            "State": "FL",
+            "ZIP": "32258"
+         },
+         "SAL": "2000.00"
+      },
+      {
+         "FullName": "Nourdin Alsherif",
+         "Title": "Mr",
+         "EDU": "PhD",
+         "Major": "Computer science",
+         "Phone": {
+            "Cell": "(904)435-1234",
+            "Home": "(935)787-4632"
+         },
+         "Address": {
+            "Street": "567 Greenland Rd ",
+            "City": "Jack",
+            "State": "FL",
+            "ZIP": "32258"
+         },
+         "SAL": "3000.00"
+      }
+   ]
+}
